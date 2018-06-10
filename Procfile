@@ -1,1 +1,1 @@
-web: gunicorn zgallien-site.wsgi --log-file -
+web: gunicorn zgallien-site.wsgi --preload
