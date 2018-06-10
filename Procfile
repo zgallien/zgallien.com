@@ -1,1 +1,1 @@
-web: gunicorn zgallien-site.wsgi
+web: gunicorn zgallien-site.wsgi --log-file -
