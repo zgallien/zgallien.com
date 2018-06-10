@@ -1,1 +1,1 @@
-web: gunicorn zgallien-site.wsgi
+web: gunicorn mysite.wsgi
